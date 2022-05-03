@@ -1,4 +1,4 @@
-# LinkdenBot-using-python-and-selenium
+# LinkedinBot-using-python-and-selenium
 This bot can automatically connect with any number of people from a given criterion and multiple locations.
 
 ## The program take three input from users-
